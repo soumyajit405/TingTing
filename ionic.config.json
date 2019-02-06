@@ -1,0 +1,7 @@
+{
+  "name": "TingTing",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
